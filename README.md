@@ -2,6 +2,8 @@
 
 A `<YouTube />` component for React Native.
 
+This repo is our fork to fixe ViewPropTypes deprecation.
+
 Uses [YoutubePlayer-in-WKWebView](https://github.com/hmhv/YoutubePlayer-in-WKWebView) for iOS and [YouTube Android Player API](https://developers.google.com/youtube/android/player/) for Android and exposes much of the API, as declaratively as possible, into React Native.
 
 [Having problems with Android? Please read this first](https://github.com/davidohayon669/react-native-youtube#known-issues)
